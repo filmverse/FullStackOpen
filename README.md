@@ -1,2 +1,2 @@
 # FullStackOpen
-FullStackOpen course
+FullStackOpen course.
